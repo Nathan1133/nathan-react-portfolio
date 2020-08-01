@@ -28,7 +28,7 @@ function Resume() {
         <div id="front-back" class="mt-5">
         <h2>back end experience:</h2>
         <p>
-            Node.js, Express.js, MySQL (sqlite, mysql), NoSQL (MongoDB, Mongoose), API's (web, third-party, RESTful, server-side), Templating language (Handlebars)
+            Node.js, Express.js, MySQL (sqlite, mysql), NoSQL (MongoDB, Mongoose), API's (third-party, RESTful, server-side), Templating (Handlebars)
         </p>
         </div>
         </div>
