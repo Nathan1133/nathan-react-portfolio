@@ -1,0 +1,50 @@
+[
+    {
+    "id": 1,
+    "name": "whiskey inventory",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/whiskey-inventory.PNG",
+    "github": "https://github.com/jpd61/project2-group8",
+    "deploy": "whiskey-inventory.herokuapp.com/",
+    "skills": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+    "id": 2,
+    "name": "mvc tech blog",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
+    "github": "https://github.com/jpd61/mvc-tech-blog",
+    "deploy": "https://hidden-falls-22101.herokuapp.com/",
+    "skills": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    },
+    {
+    "id": 3,
+    "name": "budget tracker",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/pwabudget.PNG",
+    "github": "https://github.com/jpd61/pwa-budget-tracker",
+    "deploy": "https://pwa-budget-tracker61.herokuapp.com/",
+    "skills": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+    "id": 4,
+    "name": "weather dashboard",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/weatherdashboard.PNG",
+    "github": "https://github.com/jpd61/weather-dashboard",
+    "deploy": "https://jpd61.github.io/weather-dashboard/",
+    "skills": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 5,
+    "name": "have you read it?",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/haveyoureadit.PNG",
+    "github": "https://github.com/UT-Project-1-Group-5/project-1-group-5",
+    "deploy": "https://ut-project-1-group-5.github.io/project-1-group-5/",
+    "skills": "HMTL, CSS, API"
+      },
+    {
+    "id": 6,
+    "name": "work day schedular",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/workdayscheduler.PNG",
+    "github": "https://github.com/jpd61/work-day-scheduler",
+    "deploy": "https://jpd61.github.io/work-day-scheduler/",
+    "skills": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    }
+]
