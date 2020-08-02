@@ -24,7 +24,7 @@
   
 💻 Below is a screenshot of the application:
   
-![jpd-react-portfolio](screenshot.PNG)
+![jpd-react-portfolio](https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/Capture.PNG)
 
 ## User Story
 
