@@ -8,7 +8,7 @@ function Footer() {
         <a href="https://twitter.com/jpdewoody"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" class="icon"/></a>
         <a href="https://stackoverflow.com/users/12976894/jpd61"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" class="icon"/></a>
         <p>
-        &copy; Joseph DeWoody  |  <a href="https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51">Color Palette</a>  |  Made with <img id="react-icon" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+        &copy; josephDeWoody  |  download <a href="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/Resume-Joseph-DeWoody.pdf" class="link">resume</a>  |  <a href="https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51">color palette</a>  |  made with <img id="react-icon" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
         </p>
 
     </div>
