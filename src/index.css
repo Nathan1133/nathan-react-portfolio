@@ -67,10 +67,10 @@ h1 {
 .card {
   background-color: var(--platinum);
   border-radius: 5px;
-  height: 365px;
+  height: 400px;
   margin: 2rem;
   position: relative;
-  width: 365px;
+  width: 400px;
   box-shadow: 0 2px 2px var(--onyx), 0 6px 12px var(--onyx);
 }
 
@@ -103,7 +103,7 @@ h1 {
 }
 
 #skills {
-  font-size: x-small;
+  font-size: small;
   font-style: italic;
   color: var(--onyx);
 }
@@ -140,7 +140,7 @@ h1 {
 
 #about-section p {
   background-color: var(--alabaster);
-  color: var(--sandy-brown);
+  color: var(--onyx);
 }
 
 #contact-section {
@@ -184,6 +184,11 @@ h1 {
 #footer p {
   background-color: var(--onyx);
   margin-top: 8px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: var(--orange-soda);
 }
 
 #react-icon {
