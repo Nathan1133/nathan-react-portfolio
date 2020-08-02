@@ -2,9 +2,9 @@ import React from 'react';
 
 function Resume() {
 
-    return(
+return(
 <section class="mb-5">
-        <h1 className="resume">resume: josephDeWoody</h1>
+    <h1 className="resume">resume: josephDeWoody</h1>
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">
@@ -16,8 +16,7 @@ function Resume() {
                 <p>
                 Download my full <a href="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/Resume-Joseph-DeWoody.pdf" class="link">resume</a>
                 <br></br>
-            </p>
-
+                </p>
             </div>
         </div>
 
@@ -34,9 +33,8 @@ function Resume() {
                 </p>
             </div>
         </div>
-        </section>
+</section>
 );
 }
 
-  
 export default Resume;

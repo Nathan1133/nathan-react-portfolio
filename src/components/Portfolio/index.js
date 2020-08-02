@@ -10,25 +10,18 @@ function Wrapper(props) {
 function Portfolio () {  
 
     return (
-    <>
-    <div className="project">
-    <h1 className="title">development portfolio: josephDeWoody</h1>
-    <hr></hr>
-    </div>
+        <section>
+          <div className="project">
+            <h1 className="title">development portfolio: josephDeWoody</h1>
+            <hr></hr>
+          </div>
 
-      <Wrapper>
-        {portfolio.map((project) => (
-          <ProjectCards
-          name={project.name}
-          key={project.id}
-          image={project.image}
-          github={project.github}
-          deploy={project.deploy}
-          skills={project.skills}
-          />
-        ))}
-      </Wrapper>
-    </>
+          <Wrapper id="card-data">
+            {portfolio.map((project) => (
+              <ProjectCards key={project.id} image={project.image} name={project.name} github={project.github} deploy={project.deploy} skills={project.skills}/>
+            ))}
+          </Wrapper>
+        </section>
     
     );
   }
