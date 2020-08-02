@@ -14,7 +14,8 @@ function Resume() {
                 <a href="https://www.linkedin.com/in/josephdewoody/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="DeWoody LinkedIn"/></a>
                 </p>
                 <p>
-                Download my full <a href="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/Resume-Joseph-DeWoody.pdf" class="link">resume</a><br></br>
+                Download my full <a href="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/Resume-Joseph-DeWoody.pdf" class="link">resume</a>
+                <br></br>
             </p>
 
             </div>
@@ -23,13 +24,13 @@ function Resume() {
         <div class="justify-content-center mt-5">
             <div id="front-back">
                 <h2>front end experience</h2>
-                <p>HTML, CSS (Bootstrap, Foundation, Bulma), JavaScript, jQuery, React.js, Angular.js</p>
+                <p>HTML, CSS (Bootstrap, Foundation, Bulma), JavaScript, jQuery, React.js, Angular.js, IndexedDB</p>
             </div>
     
             <div id="front-back" class="mt-5">
-                <h2>back end experience:</h2>
+                <h2>back end experience</h2>
                 <p>
-                Node.js, Express.js, MySQL (sqlite, mysql), NoSQL (MongoDB, Mongoose), API's (third-party, RESTful, server-side), Templating (Handlebars)
+                Node.js, Express.js, SQL (sqlite, mySQL, postgreSQL), Sequelize, NoSQL (MongoDB, Mongoose), Python, Django, API's (third-party, RESTful, server-side), Templating (Handlebars)
                 </p>
             </div>
         </div>

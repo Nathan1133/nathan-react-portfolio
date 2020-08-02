@@ -15,7 +15,7 @@ class Header extends Component {
     return (
         <HashRouter>
             <div className="row Header" id="header">
-                <img src="https://img.icons8.com/color/48/000000/astronaut.png" alt="Joseph DeWoody" class="icon" id="astro"/>
+                <a href="/"><img src="https://img.icons8.com/color/48/000000/astronaut.png" alt="Joseph DeWoody" class="icon" id="astro"/></a>
                 <Navigation/>
             </div>
     

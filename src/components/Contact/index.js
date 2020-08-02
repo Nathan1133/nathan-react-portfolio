@@ -5,9 +5,9 @@ function ContactForm() {
 
     const [formState, setFormState] = useState({ name: '', email: '', message: '' });
 
-    const { name, email, message } = formState;
-
     const [errorMessage, setErrorMessage] = useState('');
+
+    const { name, email, message } = formState;
 
     function handleChange(e) {
         if (e.target.name === 'email') {
@@ -42,25 +42,25 @@ return (
         <hr></hr>
         <form class="justify-content-center" id="contact-form">
             <div>
-                <label htmlFor="name">Name:</label>
-                <input type="text" class="form-control" width="100px" defaultValue={name} onBlur={handleChange} name="name" />
+                <label htmlFor="name">name:</label>
+                <input class="form-control" type="text" name="name"  defaultValue={name} onBlur={handleChange}/>
             </div>
             <div >
                 <label htmlFor="email">email:</label>
-                <input type="email" class="form-control" defaultValue={email} onBlur={handleChange} name="email" />
+                <input class="form-control" type="email"  name="email" defaultValue={email} onBlur={handleChange} />
             </div>
             <div>
                 <label htmlFor="message">message:</label>
-                <textarea name="message" class="form-control" defaultValue={message} onBlur={handleChange} rows="7" />
+                <textarea class="form-control" name="message" defaultValue={message} onBlur={handleChange} rows="7" />
             </div> 
             {errorMessage && (
             <div>
                 <p className="error-text">{errorMessage}</p>
             </div>
             )}
-            <br></br>
+
             <div>
-            <button data-testid='button' class="btn btn-outline-dark" type="submit" onSubmit={handleSubmit}>Submit</button>
+            <button data-testid='button' class="btn btn-outline-dark mt-4" type="submit" onSubmit={handleSubmit}>Submit</button>
             </div>
         </form>
     </section>
