@@ -46,5 +46,29 @@
     "github": "https://github.com/jpd61/work-day-scheduler",
     "deploy": "https://jpd61.github.io/work-day-scheduler/",
     "skills": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    },
+    {
+    "id": 7,
+    "name": "taskmaster",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/taskmaster.PNG",
+    "github": "https://github.com/jpd61/taskmaster-pro",
+    "deploy": "https://jpd61.github.io/taskmaster-pro/",
+    "skills": "HTML, Javascript, CSS"
+    },
+    {
+    "id": 8,
+    "name": "taskinator",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/taskinator.PNG",
+    "github": "https://github.com/jpd61/taskinator",
+    "deploy": "https://jpd61.github.io/taskinator/",
+    "skills": "HTML, Javascript, CSS"
+    },
+    {
+    "id": 9,
+    "name": "run buddy",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/runbuddy.png",
+    "github": "https://github.com/jpd61/run-buddy",
+    "deploy": "https://jpd61.github.io/run-buddy/",
+    "skills": "HTML, CSS"
     }
 ]

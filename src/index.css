@@ -185,3 +185,7 @@ h1 {
   background-color: var(--onyx);
   margin-top: 8px;
 }
+
+#react-icon {
+  background-color: var(--onyx);
+}
