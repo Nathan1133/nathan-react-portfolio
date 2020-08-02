@@ -20,7 +20,7 @@
 
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
-**[Deployed Application](https://pwa-budget-tracker61.herokuapp.com/)**
+**[Deployed Application](https://jpd61.github.io/jpd-react-portfolio)**
   
 💻 Below is a screenshot of the application:
   
