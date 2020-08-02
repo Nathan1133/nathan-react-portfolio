@@ -4,7 +4,7 @@
     "name": "whiskey inventory",
     "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/whiskey-inventory.PNG",
     "github": "https://github.com/jpd61/project2-group8",
-    "deploy": "whiskey-inventory.herokuapp.com/",
+    "deploy": "https://whiskey-inventory.herokuapp.com/",
     "skills": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
     },
     {
