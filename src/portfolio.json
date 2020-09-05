@@ -65,10 +65,10 @@
     },
     {
     "id": 9,
-    "name": "run buddy",
-    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/runbuddy.png",
-    "github": "https://github.com/jpd61/run-buddy",
-    "deploy": "https://jpd61.github.io/run-buddy/",
-    "topics": "HTML, CSS"
+    "name": "remote social",
+    "image": "https://github.com/jpd61/remote-social/raw/master/remotesocial.PNG",
+    "github": "https://still-falls-22027.herokuapp.com/",
+    "deploy": "https://github.com/jpd61/remote-social",
+    "topics": "MERN, React, GraphQL, Node.js, Express.js, MongoDB, Mongoose"
     }
 ]
